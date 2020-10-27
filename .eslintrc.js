@@ -13,5 +13,15 @@ module.exports = {
   ],
   plugins: ['prettier'],
   // add your custom rules here
-  rules: {},
+  rules: {
+    'prettier/prettier': [
+      'error',
+      {
+        trailingComma: 'es5',
+        tabWidth: 2,
+        semi: false,
+        singleQuote: true,
+      },
+    ],
+  },
 }
