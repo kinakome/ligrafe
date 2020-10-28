@@ -12,6 +12,9 @@ $ docker-compose up
 # コンテナの停止
 $ docker-compose down
 
+# コンテナ内でコマンドを実行
+$ docker-compose run nuxt 実行コマンド
+
 ```
 
 ## VSCodeの設定（Lint)
