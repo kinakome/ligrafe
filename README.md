@@ -35,5 +35,5 @@ $ docker-compose run nuxt 実行コマンド
     "javascript.format.enable": false,
     "eslint.workingDirectories": [
 		"./front"
-  ]
+    ]
 ```

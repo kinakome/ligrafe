@@ -16,6 +16,7 @@
     "@nuxtjs/dotenv": "^1.4.1",
     "core-js": "^3.6.5",
     "firebase": "^8.0.0",
+    "firebase-tools": "^8.14.1",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
